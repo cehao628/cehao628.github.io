@@ -38,6 +38,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in AI. Currently I'm studying
 4. ``AAAI 2025``[Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  
    Muzhi Li*, **Cehao Yang***, Chengjin Xu*, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King.
 
+# 🎖 Honors and Awards
 
 # 📖 Educations
 - *2024.09 - Now*, Ph.D. in Artificial Intelligence, Hong Kong University of Science and Technology (Guangzhou). 
