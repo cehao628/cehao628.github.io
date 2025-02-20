@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cehao Yang - Homepage"
-description              : "HKUST(GZ)-IDEA Joint Phd"
+description              : ""
 repository               : "cehao628/cehao628.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cehao Yang"
   avatar           : "images/beauty_1735136678832 (1).jpg"
-  bio              : "HKUST(GZ)"
+  bio              : "AI Thrust, HKUST(GZ)-FinAI, IDEA Joint Phd Student"
   location         : "Guangzhou, Guangdong"
   employer         :
   pubmed           : 
