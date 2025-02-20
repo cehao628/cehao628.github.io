@@ -21,7 +21,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in AI. Currently I'm studying
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper ([ToG2.0](https://arxiv.org/abs/2407.10805)) is accepted by ICLR 2025!
-- *2025.01*: &nbsp;🎉🎉 One paper ([KGR3](https://arxiv.org/pdf/2411.08165)) is accepted by NAACL 2025!
+- *2025.01*: &nbsp;🎉🎉 One paper ([KGR3](https://arxiv.org/pdf/2411.08165)) is accepted by NAACL main 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper ([CATS](https://arxiv.org/abs/2410.16803)) is accepted by AAAI 2025!
 
 # 📝 Publications 
@@ -29,13 +29,16 @@ My name is Cehao Yang(杨策皓), a first-year PhD in AI. Currently I'm studying
 1. ``Submission to ACL 2025``[LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)  
    **Cehao Yang**<sup>*</sup>, Xueyuan Lin<sup>*</sup>, Chengjin Xu<sup>*</sup>, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo.
 
-2. ``ICLR 2025``[Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/abs/2407.10805)  
+2. ``Submission to ACL 2025``[SHARPMARK: Revisiting and Enhancing Set-of-Mark Prompting for Multimodal Web Navigation]  
+   **Cehao Yang**<sup>*</sup>, Xueyuan Lin<sup>*</sup>, Hongqiu Wang, Lihao Liu, Chengjin Xu, Lei Zhu, Jian Guo
+
+3. ``ICLR 2025``[Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/abs/2407.10805)  
    Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, **Cehao Yang**, Jiaxin Mao, Jian Guo.
 
-3. ``NAACL 2025 main``[Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](https://arxiv.org/abs/2411.08165)  
+4. ``NAACL main 2025``[Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](https://arxiv.org/abs/2411.08165)  
    Muzhi Li<sup>*</sup>, **Cehao Yang**<sup>*</sup>, Chengjin Xu<sup>*</sup>, Xuhui Jiang, Yiyan Qi, Jian Guo, Ho-fung Leung, Irwin King.
 
-4. ``AAAI 2025``[Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  
+5. ``AAAI 2025``[Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  
    Muzhi Li<sup>*</sup>, **Cehao Yang**<sup>*</sup>, Chengjin Xu<sup>*</sup>, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King.
 
 # 🎖 Honors and Awards
