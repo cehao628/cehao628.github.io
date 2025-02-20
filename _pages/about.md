@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Cehao Yang - Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
