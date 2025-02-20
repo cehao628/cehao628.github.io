@@ -19,6 +19,11 @@ redirect_from:
 
 My name is Cehao Yang(杨策皓), a first-year PhD in AI. Currently I'm studying the HKUST(GZ)-IDEA Joint PhD Program.
 
+🤔 Currently, my research interests primarily focus on Large Language Models (LLMs), covering the following topics:
+- **Knowledge-Augmented LLMs**: utilizing external knowledge base to enhance LLMs' reasoning
+- **Synthetic Data**: generating high-quality datasets for training LLMs efficiently
+- **Knowledge Graph**: synergizing LLMs and knowledge graphs for application
+
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper ([ToG2.0](https://arxiv.org/abs/2407.10805)) is accepted by ICLR 2025!
 - *2025.01*: &nbsp;🎉🎉 One paper ([KGR3](https://arxiv.org/pdf/2411.08165)) is accepted by NAACL main 2025!
