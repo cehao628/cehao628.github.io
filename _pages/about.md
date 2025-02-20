@@ -27,7 +27,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in AI. Currently I'm studying
 # 📝 Publications 
 
 1. ``Submission to ACL 2025``[LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)  
-   **Cehao Yang***, **Xueyuan Lin***, **Chengjin Xu***, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo.
+   **Cehao Yang***, Xueyuan Lin*, Chengjin Xu*, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo.
 
 2. ``ICLR 2025``[Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/abs/2407.10805)  
    Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, **Cehao Yang**, Jiaxin Mao, Jian Guo.
