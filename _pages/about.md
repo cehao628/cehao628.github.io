@@ -29,13 +29,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-1. ``ICLR 2025``[Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/abs/2407.10805)  
+1. ``Submission to ACL 2025``[LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)  
+   **Cehao Yang***, **Xueyuan Lin***, **Chengjin Xu***, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo.
+
+2. ``ICLR 2025``[Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/abs/2407.10805)  
    Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, **Cehao Yang**, Jiaxin Mao, Jian Guo.
 
-2. ``NAACL 2025 main``[Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](https://arxiv.org/abs/2411.08165)  
+3. ``NAACL 2025 main``[Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](https://arxiv.org/abs/2411.08165)  
    Muzhi Li*, **Cehao Yang***, Chengjin Xu*, Xuhui Jiang, Yiyan Qi, Jian Guo, Ho-fung Leung, Irwin King.
 
-3. ``AAAI 2025``[Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  
+4. ``AAAI 2025``[Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  
    Muzhi Li*, **Cehao Yang***, Chengjin Xu*, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King.
 
 
