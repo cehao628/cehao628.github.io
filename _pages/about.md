@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Cehao Yang(杨策皓), a first-year PhD in AI. Currently I'm studying the HKUST(GZ)-IDEA Joint PhD Program.
+My name is Cehao Yang(杨策皓), a first-year PhD in AI. Currently I'm studying the HKUST(GZ)-IDEA Joint PhD Program, proudly supervised by ([Prof.Jian Guo](https://www.idea.edu.cn/person/guojian/)) and ([Prof.Hui Xiong](https://scholar.google.com/citations?hl=en&user=cVDF1tkAAAAJ)).
 
 🤔 Currently, my research interests primarily focus on Large Language Models (LLMs), covering the following topics:
 - **Knowledge-Augmented LLMs**: utilizing external knowledge base to enhance LLMs' reasoning
