@@ -56,7 +56,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in AI. Currently I'm studying
 - *2018.09 - 2022.06*, B.S. in Computer Science and Engineering, South China University of Technology. 
 
 # 💁 Volunteer
-- Reviewer: ARR 2024, AAAI 2024 PDLM
+- Reviewer: ARR 24,25, AAAI 25
 - 2024.09 - 2024.12, AIAA5088: Natural Language Processing and Its Applications (2024-2025 Fall) Teaching Assistant
 
 # 💻 Internships
