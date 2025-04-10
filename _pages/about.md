@@ -49,6 +49,8 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
    Muzhi Li<sup>*</sup>, **Cehao Yang**<sup>*</sup>, Chengjin Xu<sup>*</sup>, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King.
 
 # 🎖 Honors and Awards
+- *2024.09 - 2028.09*, Ph.D. Full Scholarship (￥720,000)
+- *2022.09 - 2024.09*, M.Phil. Full Scholarship (￥240,000)
 
 # 📖 Educations
 - *2024.09 - Now*, Ph.D. in Artificial Intelligence, Hong Kong University of Science and Technology (Guangzhou). 
