@@ -33,6 +33,8 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 - *2024.12*: &nbsp;🎉🎉 One paper ([CATS](https://arxiv.org/abs/2410.16803)) about ***LLM-driven Inductive Knowledge Graph Completion*** is accepted by AAAI 2025!
 
 # 📝 Publications 
+1. ``Submission to NeurIPS 2025`` [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning]
+   **Cehao Yang**<sup>*</sup>, Xueyuan Lin<sup>*</sup>, Chengjin Xu<sup>*</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
 
 1. ``Submission to ACM MM 2025`` [SHARPMARK: Revisiting and Enhancing Set-of-Mark Prompting for Multimodal Web Navigation]  
    **Cehao Yang**<sup>*</sup>, Xueyuan Lin<sup>*</sup>, Hongqiu Wang, Lihao Liu, Chengjin Xu, Lei Zhu, Jian Guo
@@ -59,7 +61,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 - *2018.09 - 2022.06*, B.S. in Computer Science and Engineering, South China University of Technology. 
 
 # 💁 Volunteer
-- Reviewer: ARR'24,25, AAAI'25, MM'25
+- Reviewer: ACL'24,25, AAAI'25, ACM MM'25, NeurIPS'25
 - 2024.09 - 2024.12, AIAA5088: Natural Language Processing and Its Applications (2024-2025 Fall), Teaching Assistant
 - 2023.07 - 2023.08, Red Bird Challenge Camp, HKUST(GZ), Teaching Assistant
 
