@@ -33,23 +33,23 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 - *2024.12*: &nbsp;🎉🎉 One paper ([CATS](https://arxiv.org/abs/2410.16803)) about ***LLM-driven Inductive Knowledge Graph Completion*** is accepted by AAAI 2025!
 
 # 📝 Publications 
-1. ``Submission to NeurIPS 2025`` [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning]
-   **Cehao Yang**<sup>*</sup>, Xueyuan Lin<sup>*</sup>, Chengjin Xu<sup>*</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
+1. ``Submission to NeurIPS 2025`` [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning]  
+   **Cehao Yang**<sup>&#42;</sup>, Xueyaun<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
 
-1. ``Submission to ACM MM 2025`` [SHARPMARK: Revisiting and Enhancing Set-of-Mark Prompting for Multimodal Web Navigation]  
-   **Cehao Yang**<sup>*</sup>, Xueyuan Lin<sup>*</sup>, Hongqiu Wang, Lihao Liu, Chengjin Xu, Lei Zhu, Jian Guo
-   
-2. ``ACL 2025 Findings`` [LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)  [![GitHub](https://img.shields.io/badge/GitHub-LongFaith-blue?logo=github)](https://github.com/IDEA-FinAI/LongFaith)  
-   **Cehao Yang**<sup>*</sup>, Xueyuan Lin<sup>*</sup>, Chengjin Xu<sup>*</sup>, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo.  
+2. ``Submission to ACM MM 2025`` [SHARPMARK: Revisiting and Enhancing Set-of-Mark Prompting for Multimodal Web Navigation]  
+   **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Hongqiu Wang, Lihao Liu, Chengjin Xu, Lei Zhu, Jian Guo
 
-3. ``ICLR 2025`` [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/abs/2407.10805)  [![GitHub](https://img.shields.io/badge/GitHub-ToG2.0-blue?logo=github)](https://github.com/IDEA-FinAI/ToG-2)  
-   Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, **Cehao Yang**, Jiaxin Mao, Jian Guo.
+3. ``ACL 2025 Findings`` [LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)  [![GitHub](https://img.shields.io/badge/GitHub-LongFaith-blue?logo=github)](https://github.com/IDEA-FinAI/LongFaith)  
+   **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo
+
+4. ``ICLR 2025`` [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/abs/2407.10805)  [![GitHub](https://img.shields.io/badge/GitHub-ToG2.0-blue?logo=github)](https://github.com/IDEA-FinAI/ToG-2)  
+   Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, **Cehao Yang**, Jiaxin Mao, Jian Guo
 
 5. ``NAACL 2025 Main`` [Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](https://arxiv.org/abs/2411.08165)  
-   Muzhi Li<sup>*</sup>, **Cehao Yang**<sup>*</sup>, Chengjin Xu<sup>*</sup>, Xuhui Jiang, Yiyan Qi, Jian Guo, Ho-fung Leung, Irwin King.
+   Muzhi Li<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Yiyan Qi, Jian Guo, Ho-fung Leung, Irwin King
 
 6. ``AAAI 2025`` [Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  [![GitHub](https://img.shields.io/badge/GitHub-CATS-blue?logo=github)](https://github.com/IDEA-FinAI/CATS)  
-   Muzhi Li<sup>*</sup>, **Cehao Yang**<sup>*</sup>, Chengjin Xu<sup>*</sup>, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King.
+   Muzhi Li<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King
 
 # 🎖 Honors and Awards
 - *2024.09 - 2028.09*, Ph.D. Full Scholarship (￥720,000)
