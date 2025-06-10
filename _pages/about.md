@@ -35,7 +35,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 
 # 📝 Publications 
 1. ``Submission to NeurIPS 2025`` [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning](https://arxiv.org/abs/2505.17266)   [![GitHub](https://img.shields.io/badge/GitHub-Select2Reason-blue?logo=github)](https://github.com/IDEA-FinAI/Select2Reason)  
-   **Cehao Yang**<sup>&#42;</sup>, Xueyaun<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
+   **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
 
 2. ``Submission to ACM MM 2025`` [SHARPMARK: Revisiting and Enhancing Set-of-Mark Prompting for Multimodal Web Navigation]  
    **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Hongqiu Wang, Lihao Liu, Chengjin Xu, Lei Zhu, Jian Guo
