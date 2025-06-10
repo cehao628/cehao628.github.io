@@ -28,7 +28,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper ([LongFaith](https://arxiv.org/abs/2502.12583)) about ***Synthetic Data for Long-Context Reasoning*** is accepted by ACL 2025 Findings!
-- *2025.04*: &nbsp;🎉🎉 Our paper ([KGR3](https://arxiv.org/pdf/2411.08165)) is reported by DeepTech深科技, click ([here](https://mp.weixin.qq.com/s/mM1Z9O_bITxDHgJf8eD5Rg?poc_token=HKuTRmijNwEce9xoQjr3K2CogT5N8bWm61R9PkGX))!
+- *2025.04*: &nbsp;🎉🎉 Our paper ([KGR3](https://arxiv.org/pdf/2411.08165)) is reported by DeepTech深科技, click ([here](https://mp.weixin.qq.com/s/mM1Z9O_bITxDHgJf8eD5Rg?poc_token=HKuTRmijNwEce9xoQjr3K2CogT5N8bWm61R9PkGX)) to read!
 - *2025.01*: &nbsp;🎉🎉 One paper ([ToG2.0](https://arxiv.org/abs/2407.10805)) about ***Knowledge Graph-augmented LLM*** is accepted by ICLR 2025!
 - *2025.01*: &nbsp;🎉🎉 One paper ([KGR3](https://arxiv.org/pdf/2411.08165)) about ***LLM-driven Knowledge Graph Completion*** is accepted by NAACL 2025 Main!
 - *2024.12*: &nbsp;🎉🎉 One paper ([CATS](https://arxiv.org/abs/2410.16803)) about ***LLM-driven Inductive Knowledge Graph Completion*** is accepted by AAAI 2025!
@@ -62,7 +62,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 - *2018.09 - 2022.06*, B.S. in Computer Science and Engineering, South China University of Technology. 
 
 # 💁 Volunteer
-- Reviewer: ACL'25, AAAI'25, ACM MM'25, NeurIPS'25
+- Reviewer: ACL'25, AAAI PDLM'25, ACM MM'25, NeurIPS'25, ACL SRW'25
 - 2024.09 - 2024.12, AIAA5088: Natural Language Processing and Its Applications (2024-2025 Fall), Teaching Assistant
 - 2023.07 - 2023.08, Red Bird Challenge Camp, HKUST(GZ), Teaching Assistant
 
