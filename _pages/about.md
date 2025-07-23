@@ -37,9 +37,6 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 1. ``Submission to NeurIPS 2025`` [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning](https://arxiv.org/abs/2505.17266)   [![GitHub](https://img.shields.io/badge/GitHub-Select2Reason-blue?logo=github)](https://github.com/IDEA-FinAI/Select2Reason)  
    **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
 
-2. ``Submission to ACM MM 2025`` [SHARPMARK: Revisiting and Enhancing Set-of-Mark Prompting for Multimodal Web Navigation]  
-   **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Hongqiu Wang, Lihao Liu, Chengjin Xu, Lei Zhu, Jian Guo
-
 3. ``ACL 2025 Findings`` [LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)  [![GitHub](https://img.shields.io/badge/GitHub-LongFaith-blue?logo=github)](https://github.com/IDEA-FinAI/LongFaith)  
    **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo
 
@@ -62,7 +59,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 - *2018.09 - 2022.06*, B.S. in Computer Science and Engineering, South China University of Technology. 
 
 # 💁 Volunteer
-- Reviewer: ACL'25, AAAI PDLM'25, ACM MM'25, NeurIPS'25, ACL SRW'25, EMNLP'25
+- Reviewer: ACL'25, AAAI PDLM'25, ACM MM'25, NeurIPS'25, ACL SRW'25, EMNLP'25, AAAI'26, EACL'26
 - 2024.09 - 2024.12, AIAA5088: Natural Language Processing and Its Applications (2024-2025 Fall), Teaching Assistant
 - 2023.07 - 2023.08, Red Bird Challenge Camp, HKUST(GZ), Teaching Assistant
 
