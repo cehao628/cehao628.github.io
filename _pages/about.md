@@ -60,6 +60,7 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 
 # 💁 Volunteer
 - Reviewer: ACL'25, AAAI PDLM'25, ACM MM'25, NeurIPS'25, ACL SRW'25, EMNLP'25, AAAI'26, EACL'26
+- 2025.07 - 2025.08, Red Bird Challenge Camp, HKUST(GZ), Teaching Assistant
 - 2024.09 - 2024.12, AIAA5088: Natural Language Processing and Its Applications (2024-2025 Fall), Teaching Assistant
 - 2023.07 - 2023.08, Red Bird Challenge Camp, HKUST(GZ), Teaching Assistant
 
