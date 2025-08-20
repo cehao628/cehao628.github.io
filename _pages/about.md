@@ -66,5 +66,6 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 - 2023.07 - 2023.08, Red Bird Challenge Camp, HKUST(GZ), Teaching Assistant
 
 # 💻 Internships
-- *2023.08 - Now*, NLP Research Intern, IDEA FinAI, Shenzhen.
+- *2025.01 - Now*, Research Intern, DataArc Ltd.
+- *2023.08 - 2024.08*, NLP Research Intern, IDEA FinAI, Shenzhen.
 - *2021.06 - 2021.09*, Back-end Research & Development Intern, ByteDance, Shenzhen.
