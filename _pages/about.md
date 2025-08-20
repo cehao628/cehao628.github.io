@@ -27,14 +27,15 @@ My name is Cehao Yang(杨策皓), a first-year PhD in Artificial Intelligence. C
 🙌 Thanks for your reading! If you are interested in my research, welcome for discussion and collaboration!
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper (Beyond Function-Level Search) about ***Code Retrieval*** is accepted by EMNLP 2025 Findings! 
 - *2025.05*: &nbsp;🎉🎉 One paper ([LongFaith](https://arxiv.org/abs/2502.12583)) about ***Synthetic Data for Long-Context Reasoning*** is accepted by ACL 2025 Findings!
 - *2025.04*: &nbsp;🎉🎉 Our paper ([KGR3](https://arxiv.org/pdf/2411.08165)) is reported by DeepTech深科技, click ([here](https://mp.weixin.qq.com/s/mM1Z9O_bITxDHgJf8eD5Rg?poc_token=HKuTRmijNwEce9xoQjr3K2CogT5N8bWm61R9PkGX)) to read!
 - *2025.01*: &nbsp;🎉🎉 One paper ([ToG2.0](https://arxiv.org/abs/2407.10805)) about ***Knowledge Graph-augmented LLM*** is accepted by ICLR 2025!
 - *2025.01*: &nbsp;🎉🎉 One paper ([KGR3](https://arxiv.org/pdf/2411.08165)) about ***LLM-driven Knowledge Graph Completion*** is accepted by NAACL 2025 Main!
 - *2024.12*: &nbsp;🎉🎉 One paper ([CATS](https://arxiv.org/abs/2410.16803)) about ***LLM-driven Inductive Knowledge Graph Completion*** is accepted by AAAI 2025!
 
-# 📝 Publications 
-1. ``Submission to NeurIPS 2025`` [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning](https://arxiv.org/abs/2505.17266)   [![GitHub](https://img.shields.io/badge/GitHub-Select2Reason-blue?logo=github)](https://github.com/IDEA-FinAI/Select2Reason)  
+# 📝 Selected Publications 
+1. [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning](https://arxiv.org/abs/2505.17266)   [![GitHub](https://img.shields.io/badge/GitHub-Select2Reason-blue?logo=github)](https://github.com/IDEA-FinAI/Select2Reason)  
    **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
 
 3. ``ACL 2025 Findings`` [LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)  [![GitHub](https://img.shields.io/badge/GitHub-LongFaith-blue?logo=github)](https://github.com/IDEA-FinAI/LongFaith)  
