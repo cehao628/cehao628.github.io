@@ -35,9 +35,6 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 - *2024.12*: &nbsp;🎉🎉 One paper ([CATS](https://arxiv.org/abs/2410.16803)) about ***LLM-driven Inductive Knowledge Graph Completion*** is accepted by AAAI 2025!
 
 # 📝 Selected Publications 
-1. [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning](https://arxiv.org/abs/2505.17266)   [![GitHub](https://img.shields.io/badge/GitHub-Select2Reason-blue?logo=github)](https://github.com/IDEA-FinAI/Select2Reason)  
-   **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
-
 3. ``ACL 2025 Findings`` [LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)  [![GitHub](https://img.shields.io/badge/GitHub-LongFaith-blue?logo=github)](https://github.com/IDEA-FinAI/LongFaith)  
    **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo
 
@@ -49,6 +46,16 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 
 6. ``AAAI 2025`` [Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  [![GitHub](https://img.shields.io/badge/GitHub-CATS-blue?logo=github)](https://github.com/IDEA-FinAI/CATS)  
    Muzhi Li<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King
+
+# Selected Pre-prints
+1. [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning](https://arxiv.org/abs/2505.17266)   [![GitHub](https://img.shields.io/badge/GitHub-Select2Reason-blue?logo=github)](https://github.com/IDEA-FinAI/Select2Reason)  
+   **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
+
+2. [GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation](https://www.arxiv.org/abs/2509.22009)   [![GitHub](https://img.shields.io/badge/GitHub-GraphSearch-blue?logo=github)](https://github.com/DataArcTech/GraphSearch)  
+   **Cehao Yang**<sup>&#42;</sup>, Xiaojun Wu<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu, Xuhui Jiang, Yuanliang Sun, Jia Li, Hui Xiong, Jian Guo
+
+3. [Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval](https://www.arxiv.org/abs/2509.21710) [![GitHub](https://img.shields.io/badge/GitHub-ToG3.0-blue?logo=github)](https://github.com/DataArcTech/RAG-Factory)   
+   Xiaojun Wu<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu, Xuhui Jiang, Yuanliang Sun, Hui Xiong, Jia Li, Jian Guo
 
 # 🎖 Honors and Awards
 - *2024.09 - 2028.09*, Ph.D. Full Scholarship (￥720,000)
