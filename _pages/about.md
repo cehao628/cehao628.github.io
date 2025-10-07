@@ -47,7 +47,7 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 6. ``AAAI 2025`` [Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  [![GitHub](https://img.shields.io/badge/GitHub-CATS-blue?logo=github)](https://github.com/IDEA-FinAI/CATS)  
    Muzhi Li<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King
 
-# Selected Pre-prints
+# ✍️ Selected Pre-prints
 1. [SELECT2REASON: Efficient Instruction-Tuning Data Selection for Long-CoT Reasoning](https://arxiv.org/abs/2505.17266)   [![GitHub](https://img.shields.io/badge/GitHub-Select2Reason-blue?logo=github)](https://github.com/IDEA-FinAI/Select2Reason)  
    **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo.
 
@@ -56,6 +56,9 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 
 3. [Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval](https://www.arxiv.org/abs/2509.21710) [![GitHub](https://img.shields.io/badge/GitHub-ToG3.0-blue?logo=github)](https://github.com/DataArcTech/RAG-Factory)   
    Xiaojun Wu<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu, Xuhui Jiang, Yuanliang Sun, Hui Xiong, Jia Li, Jian Guo
+
+4. [Synthesize-on-Graph: Knowledgeable Synthetic Data Generation for Continue Pre-training of Large Language Models](https://arxiv.org/abs/2505.00979)
+   Shengjie Ma, Xuhui Jiang, Chengjin Xu, **Cehao Yang**, Liyu Zhang, Jian Guo
 
 # 🎖 Honors and Awards
 - *2024.09 - 2028.09*, Ph.D. Full Scholarship (￥720,000)
