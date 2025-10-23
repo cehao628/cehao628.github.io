@@ -27,7 +27,8 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 🙌 Thanks for your reading! If you are interested in my research, welcome for discussion and collaboration!
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper (Beyond Function-Level Search) about ***Code Retrieval*** is accepted by EMNLP 2025 Findings! 
+- *2025.10*: &nbsp;🎉🎉 One paper ([SoG](https://arxiv.org/abs/2505.00979)) about ***Synthetic Data Driven by Knowledge Graph*** is accepted by LoG 2025!
+- *2025.08*: &nbsp;🎉🎉 One paper (Beyond Function-Level Search) about ***Code Retrieval*** is accepted by EMNLP 2025 Findings! 
 - *2025.05*: &nbsp;🎉🎉 One paper ([LongFaith](https://arxiv.org/abs/2502.12583)) about ***Synthetic Data for Long-Context Reasoning*** is accepted by ACL 2025 Findings!
 - *2025.04*: &nbsp;🎉🎉 Our paper ([KGR3](https://arxiv.org/pdf/2411.08165)) is reported by DeepTech深科技, click ([here](https://mp.weixin.qq.com/s/mM1Z9O_bITxDHgJf8eD5Rg?poc_token=HKuTRmijNwEce9xoQjr3K2CogT5N8bWm61R9PkGX)) to read!
 - *2025.01*: &nbsp;🎉🎉 One paper ([ToG2.0](https://arxiv.org/abs/2407.10805)) about ***Knowledge Graph-augmented LLM*** is accepted by ICLR 2025!
@@ -56,9 +57,6 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 
 3. [Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval](https://www.arxiv.org/abs/2509.21710) [![GitHub](https://img.shields.io/badge/GitHub-ToG3.0-blue?logo=github)](https://github.com/DataArcTech/RAG-Factory)   
    Xiaojun Wu<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu, Xuhui Jiang, Yuanliang Sun, Hui Xiong, Jia Li, Jian Guo
-
-4. [Synthesize-on-Graph: Knowledgeable Synthetic Data Generation for Continue Pre-training of Large Language Models](https://arxiv.org/abs/2505.00979)
-   Shengjie Ma, Xuhui Jiang, Chengjin Xu, **Cehao Yang**, Liyu Zhang, Jian Guo
 
 # 🎖 Honors and Awards
 - *2024.09 - 2028.09*, Ph.D. Full Scholarship (￥720,000)
