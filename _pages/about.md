@@ -27,6 +27,7 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 🙌 Thanks for your reading! If you are interested in my research, welcome for discussion and collaboration!
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper (Encrypted Synthetic Data) about ***Privacy-Preserving*** is accepted by EACL 2026 Findings!
 - *2025.10*: &nbsp;🎉🎉 One paper ([SoG](https://arxiv.org/abs/2505.00979)) about ***Synthetic Data Driven by Knowledge Graph*** is accepted by LoG 2025!
 - *2025.08*: &nbsp;🎉🎉 One paper (Beyond Function-Level Search) about ***Code Retrieval*** is accepted by EMNLP 2025 Findings! 
 - *2025.05*: &nbsp;🎉🎉 One paper ([LongFaith](https://arxiv.org/abs/2502.12583)) about ***Synthetic Data for Long-Context Reasoning*** is accepted by ACL 2025 Findings!
