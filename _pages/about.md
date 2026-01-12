@@ -29,7 +29,7 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper ([Encrypted Synthetic Data](https://arxiv.org/abs/2601.05635)) about ***Privacy-Preserving*** is accepted by EACL 2026 Findings!
 - *2025.10*: &nbsp;🎉🎉 One paper ([SoG](https://arxiv.org/abs/2505.00979)) about ***Synthetic Data Driven by Knowledge Graph*** is accepted by LoG 2025!
-- *2025.08*: &nbsp;🎉🎉 One paper (Beyond Function-Level Search) about ***Code Retrieval*** is accepted by EMNLP 2025 Findings! 
+- *2025.08*: &nbsp;🎉🎉 One paper ([Beyond Function-Level Search](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.1147.pdf)) about ***Code Retrieval*** is accepted by EMNLP 2025 Findings! 
 - *2025.05*: &nbsp;🎉🎉 One paper ([LongFaith](https://arxiv.org/abs/2502.12583)) about ***Synthetic Data for Long-Context Reasoning*** is accepted by ACL 2025 Findings!
 - *2025.04*: &nbsp;🎉🎉 Our paper ([KGR3](https://arxiv.org/pdf/2411.08165)) is reported by DeepTech深科技, click ([here](https://mp.weixin.qq.com/s/mM1Z9O_bITxDHgJf8eD5Rg?poc_token=HKuTRmijNwEce9xoQjr3K2CogT5N8bWm61R9PkGX)) to read!
 - *2025.01*: &nbsp;🎉🎉 One paper ([ToG2.0](https://arxiv.org/abs/2407.10805)) about ***Knowledge Graph-augmented LLM*** is accepted by ICLR 2025!
