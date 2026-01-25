@@ -27,6 +27,7 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 🙌 Thanks for your reading! If you are interested in my research, welcome for discussion and collaboration!
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper ([Financial Wind Tunnel](https://arxiv.org/abs/2503.17909)) about ***Market Simulation*** is accepted by Web 2026 Industry Track!
 - *2026.01*: &nbsp;🎉🎉 One paper ([Encrypted Synthetic Data](https://arxiv.org/abs/2601.05635)) about ***Privacy-Preserving*** is accepted by EACL 2026 Findings!
 - *2025.10*: &nbsp;🎉🎉 One paper ([SoG](https://arxiv.org/abs/2505.00979)) about ***Synthetic Data Driven by Knowledge Graph*** is accepted by LoG 2025!
 - *2025.08*: &nbsp;🎉🎉 One paper ([Beyond Function-Level Search](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.1147.pdf)) about ***Code Retrieval*** is accepted by EMNLP 2025 Findings! 
@@ -69,7 +70,7 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 - *2018.09 - 2022.06*, B.S. in Computer Science and Engineering, South China University of Technology. 
 
 # 💁 Volunteer
-- Reviewer: ACL'25, AAAI PDLM'25, ACM MM'25, NeurIPS'25, ACL SRW'25, EMNLP'25, AAAI'26, AACL'26, ICLR'26, EACL'26, ACL'26
+- Reviewer: ACL'25, AAAI PDLM'25, ACM MM'25, NeurIPS'25, ACL SRW'25, EMNLP'25, AAAI'26, AACL'26, ICLR'26, EACL'26, ACL'26, ICML'26
 - 2025.07 - 2025.08, Red Bird Challenge Camp, HKUST(GZ), Teaching Assistant
 - 2024.09 - 2024.12, AIAA5088: Natural Language Processing and Its Applications (2024-2025 Fall), Teaching Assistant
 - 2023.07 - 2023.08, Red Bird Challenge Camp, HKUST(GZ), Teaching Assistant
