@@ -28,7 +28,7 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper ([DataArc-SynData-Toolkit]()) is accepted by ACL 2026 Demo!
-- *2026.04*: &nbsp;🎉🎉 Two paper ([Select2Reason](https://arxiv.org/abs/2505.17266)) about ***Reasoning Instruction Data Selection*** and ([ConflictsHarm]()) about ***JailBreaking*** are accepted by ACL 2026 Findings!
+- *2026.04*: &nbsp;🎉🎉 Two paper ([Select2Reason](https://arxiv.org/abs/2505.17266)) about ***Reasoning Instruction Data Selection*** and ([ConflictsHarm](https://arxiv.org/abs/2604.09750)) about ***JailBreaking*** are accepted by ACL 2026 Findings!
 - *2026.04*: &nbsp;🎉🎉 One paper ([LLM-Oriented Information Retrieval]()) about ***Information Denoising*** is accepted by SIGIR 2026 Perspectives Track!
 - *2026.01*: &nbsp;🎉🎉 One paper ([Encrypted Synthetic Data](https://arxiv.org/abs/2601.05635)) about ***Privacy-Preserving*** is accepted by EACL 2026 Findings!
 - *2025.12*: &nbsp;🎉🎉 One open-source project ([DataArc-SynData-Toolkit](https://github.com/DataArcTech/DataArc-SynData-Toolkit)) has released. Feel free to have a try!
