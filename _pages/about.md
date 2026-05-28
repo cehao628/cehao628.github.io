@@ -27,11 +27,12 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 🙌 Thanks for your reading! If you are interested in my research, welcome for discussion and collaboration!
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our survey ([A Survey of Agent Skills](https://www.preprints.org/manuscript/202605.1276)) has been released on Preprint. Feel free to have a look!
 - *2026.04*: &nbsp;🎉🎉 One paper ([DataArc-SynData-Toolkit]()) is accepted by ACL 2026 Demo!
 - *2026.04*: &nbsp;🎉🎉 Two paper ([Select2Reason](https://arxiv.org/abs/2505.17266)) about ***Reasoning Instruction Data Selection*** and ([ConflictsHarm](https://arxiv.org/abs/2604.09750)) about ***JailBreaking*** are accepted by ACL 2026 Findings!
 - *2026.04*: &nbsp;🎉🎉 One paper ([LLM-Oriented Information Retrieval]()) about ***Information Denoising*** is accepted by SIGIR 2026 Perspectives Track!
 - *2026.01*: &nbsp;🎉🎉 One paper ([Encrypted Synthetic Data](https://arxiv.org/abs/2601.05635)) about ***Privacy-Preserving*** is accepted by EACL 2026 Findings!
-- *2025.12*: &nbsp;🎉🎉 One open-source project ([DataArc-SynData-Toolkit](https://github.com/DataArcTech/DataArc-SynData-Toolkit)) has released. Feel free to have a try!
+- *2025.12*: &nbsp;🎉🎉 One open-source project ([DataArc-SynData-Toolkit](https://github.com/DataArcTech/DataArc-SynData-Toolkit)) has been released. Feel free to have a try!
 - *2025.10*: &nbsp;🎉🎉 One paper ([SoG](https://arxiv.org/abs/2505.00979)) about ***Synthetic Data Driven by Knowledge Graph*** is accepted by LoG 2025!
 - *2025.08*: &nbsp;🎉🎉 One paper ([Beyond Function-Level Search](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.1147.pdf)) about ***Code Retrieval*** is accepted by EMNLP 2025 Findings! 
 - *2025.05*: &nbsp;🎉🎉 One paper ([LongFaith](https://arxiv.org/abs/2502.12583)) about ***Synthetic Data for Long-Context Reasoning*** is accepted by ACL 2025 Findings!
