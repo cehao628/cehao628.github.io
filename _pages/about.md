@@ -28,7 +28,7 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Our survey ([A Survey of Agent Skills](https://www.preprints.org/manuscript/202605.1276)) has been released on Preprint. Feel free to have a look!
-- *2026.04*: &nbsp;🎉🎉 One paper ([DataArc-SynData-Toolkit]()) is accepted by ACL 2026 Demo!
+- *2026.04*: &nbsp;🎉🎉 One paper ([DataArc-SynData-Toolkit](https://aclanthology.org/2026.acl-demo.31/)) is accepted by ACL 2026 Demo!
 - *2026.04*: &nbsp;🎉🎉 Two paper ([Select2Reason](https://arxiv.org/abs/2505.17266)) about ***Reasoning Instruction Data Selection*** and ([ConflictsHarm](https://arxiv.org/abs/2604.09750)) about ***JailBreaking*** are accepted by ACL 2026 Findings!
 - *2026.04*: &nbsp;🎉🎉 One paper ([LLM-Oriented Information Retrieval]()) about ***Information Denoising*** is accepted by SIGIR 2026 Perspectives Track!
 - *2026.01*: &nbsp;🎉🎉 One paper ([Encrypted Synthetic Data](https://arxiv.org/abs/2601.05635)) about ***Privacy-Preserving*** is accepted by EACL 2026 Findings!
@@ -48,13 +48,16 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 3. ``ACL 2025 Findings`` [LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)  [![GitHub](https://img.shields.io/badge/GitHub-LongFaith-blue?logo=github)](https://github.com/IDEA-FinAI/LongFaith)  
    **Cehao Yang**<sup>&#42;</sup>, Xueyuan Lin<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo
 
-4. ``ICLR 2025`` [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/abs/2407.10805)  [![GitHub](https://img.shields.io/badge/GitHub-ToG2.0-blue?logo=github)](https://github.com/IDEA-FinAI/ToG-2)  
+4. ``ACL 2026 Demo`` [DataArc-SynData-Toolkit: A Unified Closed-Loop Framework for Multi-Path, Multimodal, and Multilingual Data Synthesis](https://aclanthology.org/2026.acl-demo.31/)  
+   Zhichao Shi<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Hao Zhou<sup>&#42;</sup>, Xiaojun Wu, Huajie Li, Xuhui Jiang, Chengjin Xu, Yuanzhuo Wang, Jian Guo
+
+5. ``ICLR 2025`` [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/abs/2407.10805)  [![GitHub](https://img.shields.io/badge/GitHub-ToG2.0-blue?logo=github)](https://github.com/IDEA-FinAI/ToG-2)  
    Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, **Cehao Yang**, Jiaxin Mao, Jian Guo
 
-5. ``NAACL 2025 Main`` [Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](https://arxiv.org/abs/2411.08165)  
+6. ``NAACL 2025 Main`` [Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion](https://arxiv.org/abs/2411.08165)  
    Muzhi Li<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Xuhui Jiang, Yiyan Qi, Jian Guo, Ho-fung Leung, Irwin King
 
-6. ``AAAI 2025`` [Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  [![GitHub](https://img.shields.io/badge/GitHub-CATS-blue?logo=github)](https://github.com/IDEA-FinAI/CATS)  
+7. ``AAAI 2025`` [Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)  [![GitHub](https://img.shields.io/badge/GitHub-CATS-blue?logo=github)](https://github.com/IDEA-FinAI/CATS)  
    Muzhi Li<sup>&#42;</sup>, **Cehao Yang**<sup>&#42;</sup>, Chengjin Xu<sup>&#42;</sup>, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King
 
 # ✍️ Selected Pre-prints
