@@ -27,6 +27,7 @@ My name is Cehao Yang(杨策皓), a second-year PhD in Artificial Intelligence. 
 🙌 Thanks for your reading! If you are interested in my research, welcome for discussion and collaboration!
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 I’m excited to be joining Tencent Project UP as a Research Intern. Looking forward to this new journey!
 - *2026.05*: &nbsp;🎉🎉 Our survey ([A Survey of Agent Skills](https://www.preprints.org/manuscript/202605.1276)) has been released on Preprint. Feel free to have a look!
 - *2026.04*: &nbsp;🎉🎉 One paper ([DataArc-SynData-Toolkit](https://aclanthology.org/2026.acl-demo.31/)) is accepted by ACL 2026 Demo!
 - *2026.04*: &nbsp;🎉🎉 Two paper ([Select2Reason](https://arxiv.org/abs/2505.17266)) about ***Reasoning Instruction Data Selection*** and ([ConflictsHarm](https://arxiv.org/abs/2604.09750)) about ***JailBreaking*** are accepted by ACL 2026 Findings!
